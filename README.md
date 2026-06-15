@@ -5,6 +5,7 @@ This project presents a multimodal deep learning framework for emotion recogniti
 The objective is to improve emotion classification accuracy compared to single-modality approaches by leveraging audiovisual information simultaneously.
 
 #Key Features
+
 Audio-based emotion recognition using LSTM networks
 Facial expression recognition using CNN models
 Multimodal feature fusion architecture
@@ -13,6 +14,7 @@ Deep learning implementation using TensorFlow/Keras
 Performance evaluation and comparison of unimodal vs multimodal models
 
 #Technologies Used
+
 Python
 TensorFlow / Keras
 OpenCV
@@ -23,12 +25,15 @@ Matplotlib
 Scikit-learn
 
 #Dataset
+
 The project uses publicly available emotional speech and facial expression datasets for training and evaluation.
 
 #Results
+
 The multimodal architecture demonstrates improved emotion recognition performance by combining audio and visual information, highlighting the effectiveness of multimodal deep learning in affective computing applications.
 
 #Repository Structure
+
 📂 Multimodal-Emotion-Recognition
 │
 ├── FINAL_Code.ipynb
